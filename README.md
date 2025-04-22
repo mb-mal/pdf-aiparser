@@ -5,6 +5,7 @@ A Node.js tool for processing PDF documents with AI-powered image and text analy
 ## Overview
 
 PDF AI Parser extracts text and images from PDF documents and leverages Ollama's AI capabilities to generate detailed descriptions of each page. The tool is designed to handle complex PDFs, including those with mixed content, and can process documents page by page with robust error handling.
+![pdf-aiparser-example](https://github.com/user-attachments/assets/3b8da372-b1b1-4f22-a96c-6ab02b73210c)
 
 ## Features
 
