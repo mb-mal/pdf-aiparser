@@ -8,7 +8,7 @@ const axios = require('axios');
 // Configuration
 const MAX_RETRIES = 3;
 const RETRY_DELAY = 5000; // 5 seconds
-const OLLAMA_HOST='192.168.1.91';
+const OLLAMA_HOST='localhost';
 const OLLAMA_PORT='11434';
 const OLLAMA_URL = `http://${OLLAMA_HOST}:${OLLAMA_PORT}/api/generate`;
 const OLLAMA_MODEL = 'gemma3:27b-it-qat';
